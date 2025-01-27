@@ -1,0 +1,12 @@
+{
+  "nayan": {
+    "salt": "1fdf53fb1946f37b904c0894d017b12a",
+    "hash": "3e52a813a9583d61b1016f08615768c2bfa30219fa1964747a6e643315b84b74e16f843245dc83c2817af8249643ac98edcd64537d00d58a93608d841920da31",
+    "mobileNo": "9985746578",
+    "email": "senjaliya123@gmail.com"
+  },
+  "sahil": {
+    "salt": "19cfcf4bfa87adc72e85a403e8861ec5",
+    "hash": "c788cb9f09e115a01c6595d8c8ef53df4e026161963bdb29e1dc6d787b49fb64cb6c64705542d4599576461c4faaf23303be230c48a819f34768db67b6a7692d"
+  }
+}
